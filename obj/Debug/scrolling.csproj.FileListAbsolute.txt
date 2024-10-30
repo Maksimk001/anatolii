@@ -1,0 +1,15 @@
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\bin\Debug\scrolling.exe.config
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\bin\Debug\scrolling.exe
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\bin\Debug\scrolling.pdb
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling.csproj.AssemblyReference.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\MainWindow.g.cs
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\App.g.cs
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling_MarkupCompile.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling_MarkupCompile.lref
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\MainWindow.baml
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling.g.resources
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling.Properties.Resources.resources
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling.csproj.GenerateResource.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling.csproj.CoreCompileInputs.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling.exe
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\scrolling\obj\Debug\scrolling.pdb

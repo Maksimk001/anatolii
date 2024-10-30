@@ -1,0 +1,64 @@
+﻿<Window x:Class="scrolling.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:scrolling"
+        mc:Ignorable="d"
+        Icon="pack://application:,,,/anatolii3.png"
+        Title="Лучшие Анатолии" Height="450" Width="800">
+    <ScrollViewer CanContentScroll="True" VerticalScrollBarVisibility="Visible">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Content="Топ 5 смешных анатолиев" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" FontWeight="Bold"/>
+
+            <Label Content="1 Место" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontWeight="Bold"/>
+            <Label Content="Загоревший Анатолий" Grid.Row="1" HorizontalAlignment="Center" FontSize="10" FontWeight="Bold" Margin="0 20"/>
+            <Image Source="pack://application:,,,/anatolii1.jpg" Grid.Row="2" Height="300"/>
+
+            <Label Content="2 Место" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontWeight="Bold"/>
+            <Label Content="Обьевшийся Анатолий" Grid.Row="4" HorizontalAlignment="Center" FontSize="10" FontWeight="Bold" Margin="0 20"/>
+            <Image Source="pack://application:,,,/anatolii2.jpg" Grid.Row="5" Height="300"/>
+
+            <Label Content="3 Место" Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontWeight="Bold"/>
+            <Label Content="Классический Анатолий" Grid.Row="6" HorizontalAlignment="Center" FontSize="10" FontWeight="Bold" Margin="0 20"/>
+            <Image Source="pack://application:,,,/anatolii3.png" Grid.Row="7" Height="300"/>
+
+            <Label Content="4 Место" Grid.Row="8" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontWeight="Bold"/>
+            <Label Content="Мария" Grid.Row="8" HorizontalAlignment="Center" FontSize="10" FontWeight="Bold" Margin="0 20"/>
+            <Image Source="pack://application:,,,/anatolii4.png" Grid.Row="9" Height="300"/>
+
+            <Label Content="5 Место" Grid.Row="10" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontWeight="Bold"/>
+            <Label Content="Заболевший Анатолий прям жи есть" Grid.Row="10" HorizontalAlignment="Center" FontSize="10" FontWeight="Bold" Margin="0 20"/>
+            <Image Source="pack://application:,,,/anatolii5.png" Grid.Row="11" Height="300"/>
+
+            <Label Content="6 Бонусное Место" Grid.Row="12" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="15" FontWeight="Bold"/>
+            <Label Content="Приготовленный Анатолий лайк чтоби жалка" Grid.Row="12" HorizontalAlignment="Center" FontSize="10" FontWeight="Bold" Margin="0 20"/>
+            <Image Source="pack://application:,,,/anatolii6.png" Grid.Row="13" Height="300"/>
+        </Grid>
+    </ScrollViewer>
+</Window>
